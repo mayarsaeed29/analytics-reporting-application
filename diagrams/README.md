@@ -31,3 +31,5 @@ The diagrams intentionally exclude:
 - Production schemas
 - Confidential business logic
 - Operational data
+
+[View Application Architecture](application-architecture.png)
