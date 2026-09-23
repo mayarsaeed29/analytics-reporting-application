@@ -33,4 +33,7 @@ The diagrams intentionally exclude:
 - Operational data
 
 [View Application Architecture](application-architecture.png)
+
 [View Query & Pagination Flow](query-pagination-flow.png)
+
+[View Filter Interaction Flow](filter-interaction-flow.png)
